@@ -16,3 +16,5 @@
 obj/
 [Rr]elease*/
 _ReSharper*/
+*bower_components
+*packages
